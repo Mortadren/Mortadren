@@ -9,10 +9,10 @@
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Header](https://img.shields.io/badge/postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-![Header](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Header](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![Header](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Header](https://shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=000)
 
 
 ### Pet-project
