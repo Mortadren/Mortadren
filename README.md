@@ -1,5 +1,5 @@
 
-## I'm a Manual QA Engineer 
+## I'm a Developer and QA Engineer
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1KsE2IO-5aFkkZAECs1O-y1xS56c3Uxvp/view?usp=share_link)
 
