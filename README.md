@@ -1,7 +1,7 @@
 
 ## I'm a Developer and QA Engineer
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1KsE2IO-5aFkkZAECs1O-y1xS56c3Uxvp/view?usp=share_link)
+[Link to my CV]()
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
